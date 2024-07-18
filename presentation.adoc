@@ -66,6 +66,7 @@ image::images/gitlab-vault-eks.png[alt=Gitlab Pipeline to Vault to EKS,height=50
 == Demo Time
 
 image::images/qr.svg[alt=QR,height=500]
+gitlab.breuni.de/itops/oct/sandbox/tcd24-eks-gitlab-vault
 
 == Questions?
 
